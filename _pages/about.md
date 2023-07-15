@@ -27,6 +27,7 @@ _* indicates equivalent contribution_
 
 ## Honors and Awards
 * Gold Medal (4th Place), *Mid-Central USA International Collegiate Programming Competition(ICPC)*, 2022
+  [[Standings]](https://mcpc22.kattis.com/contests/mcpc22/standings)
 * Dean's List, *University of Chicago*, 2021-2022
 
 ## Life
