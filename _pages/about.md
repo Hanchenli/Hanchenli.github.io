@@ -30,5 +30,5 @@ _* indicates equivalent contribution_
 * Dean's List, *University of Chicago*, 2021-2022
 
 ## Life
-My Chinese name is 李翰宸 and my hometown is Nanjing, China.
-I play lots of soccer and basketball when I am free.
+* My Chinese name is 李翰宸 and my hometown is Nanjing, Jiangsu.
+* I play lots of soccer and basketball. I also enjoy 惯蛋(Guan Dan, a popular card game in Jiangsu) with friends.
