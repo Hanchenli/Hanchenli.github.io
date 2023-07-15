@@ -28,3 +28,7 @@ _* indicates equivalent contribution_
 ## Honors and Awards
 * Gold Medal (4th Place), *Mid-Central USA International Collegiate Programming Competition(ICPC)*, 2022
 * Dean's List, *University of Chicago*, 2021-2022
+
+## Life
+My Chinese name is 李翰宸 and my hometown is Nanjing, China.
+I play lots of soccer and basketball when I am free.
