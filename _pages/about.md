@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Hanchen Li, a rising third year at University of Chicago studying Mathematics(Honors) and Computer Science(Honors). My research interest lies broadly in Computer Networking, Multimedia Systems, and AI systems. I have been fortunate to work with Prof. Junchen Jiang at University of Chicago. Here is my [cv]()
+I am a rising third year undergraduate at University of Chicago studying Mathematics(Honors) and Computer Science(Honors). My research interest lies broadly in Computer Networking, Multimedia Systems, and AI systems. I have been fortunate to work with Prof. Junchen Jiang at University of Chicago. Here is my [cv]()
 
 ## Publications
 _* indicates equivalent contribution_
