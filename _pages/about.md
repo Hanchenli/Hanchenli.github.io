@@ -14,7 +14,7 @@ I am a rising third year undergraduate at University of Chicago studying Mathema
 _* indicates equivalent contribution_
 - Optimizing Real-Time Video Experience with Data Scalable Codec <br />
   **Hanchen Li\***, Yihua Cheng\*, Ziyi Zhang, Qizheng Zhang, Anton Arapin, Nick Feamster, Amrita Mazumdar <br />
-  SIGCOMM 2023 Workshop in Emerging Multimedia Systems(EMS) (To Appear)
+  ACM SIGCOMM 2023 Workshop in Emerging Multimedia Systems (EMS)
 
 - GRACE: Loss-Resilient Real-Time Video Communication Using Data-Scalable Autoencoder <br />
   Yihua Cheng, Anton Arapin, Ziyi Zhang, Qizheng Zhang, **Hanchen Li**, Nick Feamster, Junchen Jiang <br />
