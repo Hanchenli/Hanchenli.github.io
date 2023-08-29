@@ -30,6 +30,7 @@ _* indicates equivalent contribution_
 * **Gold Medal\*** (4th Place), *Mid-Central USA International Collegiate Programming Competition(**ICPC\***)*, 2022
   [[Standings]](https://mcpc22.kattis.com/contests/mcpc22/standings)
 * Dean's List, *University of Chicago*, 2021-2022
+* First Prize, National Olympiad In Informatics(NOIP), 2018
 
 ## Life
 * My name in Chinese is 李翰宸 and I grew up in Nanjing, Jiangsu.
