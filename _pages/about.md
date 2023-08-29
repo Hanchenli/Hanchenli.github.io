@@ -33,4 +33,4 @@ _* indicates equivalent contribution_
 
 ## Life
 * My name in Chinese is 李翰宸 and I grew up in Nanjing, Jiangsu.
-* I play lots of soccer and basketball. I also enjoy 惯蛋(Guan Dan, a popular card game in Jiangsu) with friends.
+* In my free time, I play soccer, basketball and powerlift. I also enjoy 惯蛋(Guan Dan, a popular card game in Jiangsu) with friends.
