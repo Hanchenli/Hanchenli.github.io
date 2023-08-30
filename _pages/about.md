@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I am a rising third year undergraduate at University of Chicago studying Mathematics (Honors), Computer Science (Honors) and Statistics. My research interest lies broadly in Computer Networking, Multimedia Systems, and systems for AI. 
-I have been fortunate to work with Prof. Junchen Jiang at University of Chicago and collaborate with Amrita Mazumdar from NVIDIA research. Here is my [cv]()
+I have been fortunate to work with Prof. Junchen Jiang at University of Chicago and collaborate with Dr. Amrita Mazumdar from NVIDIA research. Here is my [cv]()
 
 ## Publications
 _* indicates equivalent contribution_
