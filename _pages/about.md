@@ -8,8 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am a rising third year undergraduate at University of Chicago studying Mathematics (Honors), Computer Science (Honors) and Statistics. My research interest lies broadly in Computer Networking, Multimedia Systems, and systems for AI. My current research is mainly around Large Language Model(LLM) serving. I am always happy to chat about LLM research or practical deployment issues!
-I have been fortunate to work with Prof. Junchen Jiang at University of Chicago and collaborate with Dr. Amrita Mazumdar from NVIDIA research. Here is my [cv]()
+I am a rising third year undergraduate at University of Chicago studying Mathematics (Honors), Computer Science (Honors) and Statistics. My research interest lies broadly in Computer Networking, Multimedia Systems, and systems for AI. <br />
+I have been fortunate to work with Prof. Junchen Jiang at University of Chicago and collaborate with Dr. Amrita Mazumdar from NVIDIA research. Here is my [cv]()<br />
+
+My current research is mainly around Large Language Model(LLM) serving. I am always happy to chat about LLM research or practical deployment issues!
 
 ## Publications
 _* indicates equivalent contribution_
