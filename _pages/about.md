@@ -35,6 +35,11 @@ _* indicates equivalent contribution_
 * Dean's List, *University of Chicago*, 2021-2022
 * First Prize, Chinese National Olympiad in Informatics in Provinces, 2018
 
+## Talks
+* Optimizing Real-Time Video Experience with Data Scalable Codec
+* * SIGCOMM 2023 Workshop in Emerging Multimedia Systems
+  * 2023 Midstates Consortium Undergraduate Research Symposium
+
 ## Life
 * My name in Chinese is 李翰宸 and I grew up in Nanjing, Jiangsu.
 * I play soccer, basketball and powerlift. I also enjoy 惯蛋(Guan Dan, a popular card game in Jiangsu) with friends.
