@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a rising third year undergraduate at University of Chicago studying Mathematics (Honors), Computer Science (Honors) and Statistics. My research interest lies around providing **networking** and **system** support for **multimedia** and **machine learning** applications. <br /> I am currently researching on LLM serving and I had extensive experience working in video conferencing, quality of experience.
+I am a rising third year undergraduate at University of Chicago studying Mathematics (Honors), Computer Science (Honors) and Statistics. My research interest lies around providing **system & networking** support for **multimedia** and **machine learning** applications. <br /> I am currently researching on LLM serving and I had extensive experience working in video conferencing, quality of experience.
 
 I have been fortunate to work with Prof. Junchen Jiang at University of Chicago and collaborate with Dr. Amrita Mazumdar from NVIDIA research. Here is my [cv]()<br />
 
