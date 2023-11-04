@@ -17,7 +17,7 @@ I have been fortunate to work with Prof. Junchen Jiang at University of Chicago 
 _* indicates equivalent contribution_
 - Optimizing Real-Time Video Experience with Data Scalable Codec <br />
   **Hanchen Li\***, Yihua Cheng\*, Ziyi Zhang, Qizheng Zhang, Anton Arapin, Nick Feamster, Amrita Mazumdar <br />
-  ACM SIGCOMM 2023 Workshop in Emerging Multimedia Systems (EMS) [[paper]]([https://dl.acm.org/doi/10.1145/3609395.3611108])
+  ACM SIGCOMM 2023 Workshop in Emerging Multimedia Systems (EMS) [[paper]](https://dl.acm.org/doi/10.1145/3609395.3611108)
 
 - CacheGen: Fast Context Loading for Language Model Applications <br />
   Yuhan Liu, **Hanchen Li**, Kuntai Du, Jiayi Yao, Yihua Cheng, Yuyang Huang, Shan Lu, Michael Maire, Henry Hoffmann, Ari Holtzman, Ganesh Ananthanarayanan, Junchen Jiang.<br />
