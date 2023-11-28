@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a rising third year undergraduate at University of Chicago studying Mathematics (Honors), Computer Science (Honors) and Statistics. My research interest lies around providing **system & networking** support for **multimedia** and **machine learning** applications. <br /> I am currently researching on LLM serving and I had extensive experience working in video conferencing, quality of experience, and transmission under unstable network.
+I am a rising third year undergraduate at University of Chicago studying Mathematics (Honors), Computer Science (Honors) and Statistics. My research interest lies around providing **system & networking** support for **multimedia** and **machine learning** applications. <br /> I am currently researching on LLM serving and real-time communication for emergin multimedia applications including LLM and video conferencing.
 
 I have been fortunate to work with Prof. Junchen Jiang at University of Chicago and collaborate with Dr. Amrita Mazumdar from NVIDIA research. Here is my [cv]()<br />
 
@@ -24,8 +24,12 @@ _* indicates equivalent contribution_
   Arxiv preprint [[paper]](https://arxiv.org/abs/2310.07240)
 
 - GRACE: Loss-Resilient Real-Time Video Communication Using Data-Scalable Autoencoder <br />
-  Yihua Cheng, Ziyi Zhang, **Hanchen Li**, Anton Arapin, Yue Zhang, Qizheng Zhang, Yuhan Liu, Xu Zhang, Francis Y. Yan, Amrita Mazumdar, Nick Feamster, Junchen Jiang.<br />
+  Yihua Cheng, Ziyi Zhang, **Hanchen Li**, Anton Arapin, Yue Zhang, Qizheng Zhang, Yuhan Liu, Xu Zhang, Francis Y. Yan, Amrita Mazumdar, Nick Feamster, Junchen Jiang<br />
   ArXiv preprint [[paper]](https://arxiv.org/abs/2305.12333)
+
+- VidPlat: A Tool for Fast Crowdsourcing of Quality-of-Experience Measurements <br />
+  Xu Zhang, **Hanchen Li**, Paul Schmitt, Marshini Chetty, Nick Feamster, Junchen Jiang<br />
+  Arxiv Preprint [[paper]](https://arxiv.org/abs/2311.06698)
 
 - Properties and Applications of Graph Laplacians <br />
   **Hanchen Li** <br />
@@ -45,4 +49,4 @@ _* indicates equivalent contribution_
 
 ## Life
 * My name in Chinese is 李翰宸 and I grew up in Nanjing, Jiangsu.
-* I play soccer, basketball and powerlift. I also enjoy 惯蛋(Guan Dan, a popular card game in Jiangsu) with friends.
+* I play soccer, basketball and weightlift. I also enjoy 惯蛋(Guan Dan, a popular card game in Jiangsu) with friends.
