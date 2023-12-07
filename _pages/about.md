@@ -15,19 +15,19 @@ I have been fortunate to work with Prof. Junchen Jiang at University of Chicago 
 
 ## Publications
 _* indicates equivalent contribution_
-- GRACE: Loss-Resilient Real-Time Video Communication Using Data-Scalable Autoencoder <br />
+- **GRACE**: Loss-Resilient Real-Time Video Communication Using Data-Scalable Autoencoder <br />
   Yihua Cheng, Ziyi Zhang, **Hanchen Li**, Anton Arapin, Yue Zhang, Qizheng Zhang, Yuhan Liu, Xu Zhang, Francis Y. Yan, Amrita Mazumdar, Nick Feamster, Junchen Jiang<br />
-  NSDI 2024 (To Appear) [[paper]](https://arxiv.org/abs/2305.12333)
+  **NSDI 2024** (To Appear) [[paper]](https://arxiv.org/abs/2305.12333)
 
 - Optimizing Real-Time Video Experience with Data Scalable Codec <br />
   **Hanchen Li\***, Yihua Cheng\*, Ziyi Zhang, Qizheng Zhang, Anton Arapin, Nick Feamster, Amrita Mazumdar <br />
-  ACM SIGCOMM 2023 Workshop in Emerging Multimedia Systems (EMS) [[paper]](https://dl.acm.org/doi/10.1145/3609395.3611108)
+  **ACM SIGCOMM 2023 Workshop in Emerging Multimedia Systems (EMS)** [[paper]](https://dl.acm.org/doi/10.1145/3609395.3611108)
 
-- CacheGen: Fast Context Loading for Language Model Applications <br />
+- **CacheGen**: Fast Context Loading for Language Model Applications <br />
   Yuhan Liu, **Hanchen Li**, Kuntai Du, Jiayi Yao, Yihua Cheng, Yuyang Huang, Shan Lu, Michael Maire, Henry Hoffmann, Ari Holtzman, Ganesh Ananthanarayanan, Junchen Jiang.<br />
   Arxiv preprint [[paper]](https://arxiv.org/abs/2310.07240)
 
-- VidPlat: A Tool for Fast Crowdsourcing of Quality-of-Experience Measurements <br />
+- **VidPlat**: A Tool for Fast Crowdsourcing of Quality-of-Experience Measurements <br />
   Xu Zhang, **Hanchen Li**, Paul Schmitt, Marshini Chetty, Nick Feamster, Junchen Jiang<br />
   Arxiv Preprint [[paper]](https://arxiv.org/abs/2311.06698)
 
