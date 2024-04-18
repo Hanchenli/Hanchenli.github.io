@@ -8,16 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-I am a rising third year undergraduate at University of Chicago studying Mathematics (Honors), Computer Science (Honors) and Statistics. My research interest lies around providing **system & networking** support for **multimedia** and **machine learning** applications. <br /> I am currently researching on LLM serving and real-time communication for emergin multimedia applications including LLM and video conferencing.
+I am a rising third year undergraduate at University of Chicago studying Mathematics (Honors), Computer Science (Honors) and Statistics. My research interest lies around providing **system & networking** support for **multimedia** and **machine learning** applications. <br /> I am currently working on LLM serving (and some video conferencing measurements).
 
-I have been fortunate to work with Prof. Junchen Jiang at University of Chicago and collaborate with Dr. Amrita Mazumdar from NVIDIA research. Here is my [cv]()<br />
+I have been fortunate to work with Prof. Junchen Jiang at University of Chicago.
 
 
 ## Publications
 _* indicates equivalent contribution_
 - **GRACE**: Loss-Resilient Real-Time Video Communication Using Data-Scalable Autoencoder <br />
   Yihua Cheng, Ziyi Zhang, **Hanchen Li**, Anton Arapin, Yue Zhang, Qizheng Zhang, Yuhan Liu, Xu Zhang, Francis Y. Yan, Amrita Mazumdar, Nick Feamster, Junchen Jiang<br />
-  **NSDI 2024** (To Appear) [[paper]](https://arxiv.org/abs/2305.12333)
+  **NSDI 2024** [[paper]](https://www.usenix.org/conference/nsdi24/presentation/cheng)
 
 - Optimizing Real-Time Video Experience with Data Scalable Codec <br />
   **Hanchen Li\***, Yihua Cheng\*, Ziyi Zhang, Qizheng Zhang, Anton Arapin, Nick Feamster, Amrita Mazumdar <br />
