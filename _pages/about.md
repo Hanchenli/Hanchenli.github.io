@@ -27,7 +27,7 @@ _* indicates equivalent contribution_
   **Hanchen Li\***, Yihua Cheng\*, Ziyi Zhang, Qizheng Zhang, Anton Arapin, Nick Feamster, Amrita Mazumdar <br />
   **ACM SIGCOMM 2023 Workshop in Emerging Multimedia Systems (EMS)** [[paper]](https://dl.acm.org/doi/10.1145/3609395.3611108)
 
-- Chatterbox: Robust Transport for LLM Token Streaming under Unstable Network
+- Chatterbox: Robust Transport for LLM Token Streaming under Unstable Network <br />
   **Hanchen Li**, Yuhan Liu, Yihua Cheng, Siddhant Ray, Kuntai Du, Junchen Jiang <br />
   Arxiv Preprint [[paper]](https://arxiv.org/abs/2401.12961)
 
