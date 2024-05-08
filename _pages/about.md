@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a rising third year undergraduate at University of Chicago studying Mathematics (Honors), Computer Science (Honors) and Statistics. My research interest lies around providing **system & networking** support for **multimedia** and **machine learning** applications. <br /> I am currently working on LLM serving (and some video conferencing measurements).
+I am a rising third year undergraduate at University of Chicago studying Mathematics (Honors), Computer Science (Honors) and Statistics. My research interest lies around providing **system & networking** support for **multimedia** and **machine learning** applications. <br />
 
 I have been fortunate to work with Prof. Junchen Jiang at University of Chicago.
 
