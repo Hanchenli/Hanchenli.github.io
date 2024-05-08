@@ -28,7 +28,7 @@ _* indicates equivalent contribution_
   **ACM SIGCOMM 2023 Workshop in Emerging Multimedia Systems (EMS)** [[paper]](https://dl.acm.org/doi/10.1145/3609395.3611108)
 
 - Chatterbox: Robust Transport for LLM Token Streaming under Unstable Network
-  **Hanchen Li**, Yuhan Liu, Yihua Cheng, Siddhant Ray, Kuntai Du, Junchen Jiang
+  **Hanchen Li**, Yuhan Liu, Yihua Cheng, Siddhant Ray, Kuntai Du, Junchen Jiang <br />
   Arxiv Preprint [[paper]](https://arxiv.org/abs/2401.12961)
 
 - **VidPlat**: A Tool for Fast Crowdsourcing of Quality-of-Experience Measurements <br />
