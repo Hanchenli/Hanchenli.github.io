@@ -13,11 +13,15 @@ I am a rising third year undergraduate at University of Chicago studying Mathema
 I have been fortunate to work with Prof. Junchen Jiang at University of Chicago.
 
 
-## Publications
+## Selected Publications
 _* indicates equivalent contribution_
 - **CacheGen**: Fast Context Loading for Language Model Applications <br />
-  Yuhan Liu, **Hanchen Li**, Kuntai Du, Jiayi Yao, Yihua Cheng, Yuyang Huang, Shan Lu, Michael Maire, Henry Hoffmann, Ari Holtzman, Ganesh Ananthanarayanan, Junchen Jiang.<br />
+  *Yuhan Liu, **Hanchen Li**, Kuntai Du, Jiayi Yao, Yihua Cheng, Yuyang Huang, Shan Lu, Michael Maire, Henry Hoffmann, Ari Holtzman, Ganesh Ananthanarayanan, Junchen Jiang.*<br />
   **SIGCOMM 2024**  [[paper]](https://arxiv.org/abs/2310.07240)
+
+- **Eloquent**:  More Robust Transmission Scheme for LLM Token Streaming <br />
+  **Hanchen Li**, Yuhan Liu, Yihua Cheng, Siddhant Ray, Kuntai Du, Junchen Jiang <br />
+  SIGCOMM 2024 Workshop on Networks for AI Computing (**NAIC**) [[paper]](https://arxiv.org/abs/2401.12961)
   
 - **GRACE**: Loss-Resilient Real-Time Video Communication Using Data-Scalable Autoencoder <br />
   Yihua Cheng, Ziyi Zhang, **Hanchen Li**, Anton Arapin, Yue Zhang, Qizheng Zhang, Yuhan Liu, Xu Zhang, Francis Y. Yan, Amrita Mazumdar, Nick Feamster, Junchen Jiang<br />
@@ -25,11 +29,27 @@ _* indicates equivalent contribution_
 
 - Optimizing Real-Time Video Experience with Data Scalable Codec <br />
   **Hanchen Li\***, Yihua Cheng\*, Ziyi Zhang, Qizheng Zhang, Anton Arapin, Nick Feamster, Amrita Mazumdar <br />
-  **ACM SIGCOMM 2023 Workshop in Emerging Multimedia Systems (EMS)** [[paper]](https://dl.acm.org/doi/10.1145/3609395.3611108)
+  SIGCOMM 2023 Workshop on Emerging Multimedia Systems (**EMS**) [[paper]](https://dl.acm.org/doi/10.1145/3609395.3611108)
+  
+## Full Publications
+<details>
+<summary> <b>Expand</b> </summary>
 
-- Chatterbox: Robust Transport for LLM Token Streaming under Unstable Network <br />
+- **CacheGen**: Fast Context Loading for Language Model Applications <br />
+  *Yuhan Liu, **Hanchen Li**, Kuntai Du, Jiayi Yao, Yihua Cheng, Yuyang Huang, Shan Lu, Michael Maire, Henry Hoffmann, Ari Holtzman, Ganesh Ananthanarayanan, Junchen Jiang.*<br />
+  **SIGCOMM 2024**  [[paper]](https://arxiv.org/abs/2310.07240)
+
+- **Eloquent**:  More Robust Transmission Scheme for LLM Token Streaming <br />
   **Hanchen Li**, Yuhan Liu, Yihua Cheng, Siddhant Ray, Kuntai Du, Junchen Jiang <br />
-  Arxiv Preprint [[paper]](https://arxiv.org/abs/2401.12961)
+  SIGCOMM 2024 Workshop on Networks for AI Computing (**NAIC**) [[paper]](https://arxiv.org/abs/2401.12961)
+  
+- **GRACE**: Loss-Resilient Real-Time Video Communication Using Data-Scalable Autoencoder <br />
+  Yihua Cheng, Ziyi Zhang, **Hanchen Li**, Anton Arapin, Yue Zhang, Qizheng Zhang, Yuhan Liu, Xu Zhang, Francis Y. Yan, Amrita Mazumdar, Nick Feamster, Junchen Jiang<br />
+  **NSDI 2024** [[paper]](https://www.usenix.org/conference/nsdi24/presentation/cheng)
+
+- Optimizing Real-Time Video Experience with Data Scalable Codec <br />
+  **Hanchen Li\***, Yihua Cheng\*, Ziyi Zhang, Qizheng Zhang, Anton Arapin, Nick Feamster, Amrita Mazumdar <br />
+  SIGCOMM 2023 Workshop on Emerging Multimedia Systems (**EMS**) [[paper]](https://dl.acm.org/doi/10.1145/3609395.3611108)
 
 - **VidPlat**: A Tool for Fast Crowdsourcing of Quality-of-Experience Measurements <br />
   Xu Zhang, **Hanchen Li**, Paul Schmitt, Marshini Chetty, Nick Feamster, Junchen Jiang<br />
@@ -39,6 +59,7 @@ _* indicates equivalent contribution_
   **Hanchen Li** <br />
   UChicago Math REU 2022 [[paper]](http://math.uchicago.edu/~may/REU2022/REUPapers/Li,Hanchen.pdf) <br />
 
+</details>
 
 ## Honors and Awards
 * **Gold Medal** (4th Place), *Mid-Central USA International Collegiate Programming Competition(**ICPC**)*, 2022
