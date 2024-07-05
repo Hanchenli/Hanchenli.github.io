@@ -22,7 +22,7 @@ _* indicates equivalent contribution_
   **SIGCOMM 2024**  [[paper]](https://arxiv.org/abs/2310.07240)
 
 - **Eloquent**:  More Robust Transmission Scheme for LLM Token Streaming <br />
-  ***Hanchen Li***, Yuhan Liu, Yihua Cheng, Siddhant Ray, Kuntai Du, Junchen Jiang* <br />
+  ***Hanchen Li***, Yuhan Liu, Yihua Cheng, Siddhant Ray, Kuntai Du, Junchen Jiang <br />
   SIGCOMM 2024 Workshop on Networks for AI Computing (**NAIC**) [[paper]](https://arxiv.org/abs/2401.12961)
   
 - **GRACE**: Loss-Resilient Real-Time Video Communication Using Data-Scalable Autoencoder <br />
