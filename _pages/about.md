@@ -8,9 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a rising third year undergraduate at University of Chicago studying Mathematics (Honors), Computer Science (Honors) and Statistics. My research interest lies around providing **system & networking** support for **multimedia** and **machine learning** applications. My previous experiences mainly include video conferencing and LLM serving. <br />
+I am a rising fourth year undergraduate at University of Chicago studying Mathematics (Honors), Computer Science (Honors) and Statistics. My research interest lies around providing **system & networking** support for **multimedia** and **machine learning** applications. My previous experiences mainly include video conferencing and LLM serving. <br />
 
-I have been fortunate to work with Prof. Junchen Jiang at University of Chicago.
+I have been fortunate to work with Prof. Junchen Jiang at University of Chicago and I am currently interning at EPFL DIAS with Dr. Kyoungmin Young and Prof. Anastasia Ailamaki.
+
+I am looking for PhD position and research engineer intern in the 2024 Fall. Feel free to contact me at lihanc2002@uchicago.edu if you see a fit!
 
 
 ## Selected Publications
@@ -20,7 +22,7 @@ _* indicates equivalent contribution_
   **SIGCOMM 2024**  [[paper]](https://arxiv.org/abs/2310.07240)
 
 - **Eloquent**:  More Robust Transmission Scheme for LLM Token Streaming <br />
-  ***Hanchen Li**, Yuhan Liu, Yihua Cheng, Siddhant Ray, Kuntai Du, Junchen Jiang* <br />
+  ***Hanchen Li***, Yuhan Liu, Yihua Cheng, Siddhant Ray, Kuntai Du, Junchen Jiang* <br />
   SIGCOMM 2024 Workshop on Networks for AI Computing (**NAIC**) [[paper]](https://arxiv.org/abs/2401.12961)
   
 - **GRACE**: Loss-Resilient Real-Time Video Communication Using Data-Scalable Autoencoder <br />
