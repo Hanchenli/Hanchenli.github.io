@@ -38,9 +38,8 @@ _* indicates equivalent contribution_
 <summary> <b>Expand</b> </summary>
 
 - CacheBlend: Fast Large Languge Model Serving for RAG with Cached Knowledge Fusion <br />
- *Jiayi Yao, Hanchen Li, Yuhan Liu, Siddhant Ray, Yihua Cheng, Qizheng Zhang, Kuntai Du, Shan Lu, Junchen Jiang* <br />
+ Jiayi Yao, Hanchen Li, Yuhan Liu, Siddhant Ray, Yihua Cheng, Qizheng Zhang, Kuntai Du, Shan Lu, Junchen Jiang <br />
  Preprint [[paper]](https://arxiv.org/abs/2405.16444)
-
 
 - **CacheGen**: Fast Context Loading for Language Model Applications <br />
   *Yuhan Liu, **Hanchen Li**, Kuntai Du, Jiayi Yao, Yihua Cheng, Yuyang Huang, Shan Lu, Michael Maire, Henry Hoffmann, Ari Holtzman, Ganesh Ananthanarayanan, Junchen Jiang.*<br />
