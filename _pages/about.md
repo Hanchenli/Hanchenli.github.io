@@ -37,37 +37,37 @@ _* indicates equivalent contribution_
 <details>
 <summary> <b>Expand</b> </summary>
 
-- CacheBlend: Fast Large Languge Model Serving for RAG with Cached Knowledge Fusion <br />
- *Jiayi Yao, <b>Hanchen Li</b>, Yuhan Liu, Siddhant Ray, Yihua Cheng, Qizheng Zhang, Kuntai Du, Shan Lu, Junchen Jiang* <br />
- Preprint [[paper]](https://arxiv.org/abs/2405.16444)
+CacheBlend: Fast Large Languge Model Serving for RAG with Cached Knowledge Fusion <br />
+*Jiayi Yao, <b>Hanchen Li</b>, Yuhan Liu, Siddhant Ray, Yihua Cheng, Qizheng Zhang, Kuntai Du, Shan Lu, Junchen Jiang* <br />
+Preprint [[paper]](https://arxiv.org/abs/2405.16444)
 
-- **CacheGen**: Fast Context Loading for Language Model Applications <br />
-  *Yuhan Liu, <b>Hanchen Li</b>, Kuntai Du, Jiayi Yao, Yihua Cheng, Yuyang Huang, Shan Lu, Michael Maire, Henry Hoffmann, Ari Holtzman, Ganesh Ananthanarayanan, Junchen Jiang.*<br />
-  **SIGCOMM 2024**  [[paper]](https://arxiv.org/abs/2310.07240)
+**CacheGen**: Fast Context Loading for Language Model Applications <br />
+*Yuhan Liu, <b>Hanchen Li</b>, Kuntai Du, Jiayi Yao, Yihua Cheng, Yuyang Huang, Shan Lu, Michael Maire, Henry Hoffmann, Ari Holtzman, Ganesh Ananthanarayanan, Junchen Jiang.*<br />
+**SIGCOMM 2024**  [[paper]](https://arxiv.org/abs/2310.07240)
 
-- **Eloquent**:  More Robust Transmission Scheme for LLM Token Streaming <br />
-  *<b>Hanchen Li</b>, Yuhan Liu, Yihua Cheng, Siddhant Ray, Kuntai Du, Junchen Jiang* <br />
-  SIGCOMM 2024 Workshop on Networks for AI Computing (**NAIC**) [[paper]](https://arxiv.org/abs/2401.12961)
+**Eloquent**:  More Robust Transmission Scheme for LLM Token Streaming <br />
+*<b>Hanchen Li</b>, Yuhan Liu, Yihua Cheng, Siddhant Ray, Kuntai Du, Junchen Jiang* <br />
+SIGCOMM 2024 Workshop on Networks for AI Computing (**NAIC**) [[paper]](https://arxiv.org/abs/2401.12961)
 
-- **GRACE**: Loss-Resilient Real-Time Video Communication Using Data-Scalable Autoencoder <br />
-  *Yihua Cheng, Ziyi Zhang, <b>Hanchen Li</b>, Anton Arapin, Yue Zhang, Qizheng Zhang, Yuhan Liu, Xu Zhang, Francis Y. Yan, Amrita Mazumdar, Nick Feamster, Junchen Jiang* <br />
-  **NSDI 2024** [[paper]](https://www.usenix.org/conference/nsdi24/presentation/cheng)
+**GRACE**: Loss-Resilient Real-Time Video Communication Using Data-Scalable Autoencoder <br />
+*Yihua Cheng, Ziyi Zhang, <b>Hanchen Li</b>, Anton Arapin, Yue Zhang, Qizheng Zhang, Yuhan Liu, Xu Zhang, Francis Y. Yan, Amrita Mazumdar, Nick Feamster, Junchen Jiang* <br />
+**NSDI 2024** [[paper]](https://www.usenix.org/conference/nsdi24/presentation/cheng)
 
-- Towards More Economical Context-Augmented LLM Generation by Reusing Stored KV Cache <br />
-  *<b>Hanchen Li</b>, Yuhan Liu, Yihua Cheng, Kuntai Du, and Junchen Jiang* <br />
-  NSDI 2024 Poster
+Towards More Economical Context-Augmented LLM Generation by Reusing Stored KV Cache <br />
+*<b>Hanchen Li</b>, Yuhan Liu, Yihua Cheng, Kuntai Du, and Junchen Jiang* <br />
+NSDI 2024 Poster
 
-- Optimizing Real-Time Video Experience with Data Scalable Codec <br />
-  *<b>Hanchen Li\*</b>, Yihua Cheng\*, Ziyi Zhang, Qizheng Zhang, Anton Arapin, Nick Feamster, Amrita Mazumdar* <br />
-  SIGCOMM 2023 Workshop on Emerging Multimedia Systems (**EMS**) [[paper]](https://dl.acm.org/doi/10.1145/3609395.3611108)
+Optimizing Real-Time Video Experience with Data Scalable Codec <br />
+*<b>Hanchen Li\*</b>, Yihua Cheng\*, Ziyi Zhang, Qizheng Zhang, Anton Arapin, Nick Feamster, Amrita Mazumdar* <br />
+SIGCOMM 2023 Workshop on Emerging Multimedia Systems (**EMS**) [[paper]](https://dl.acm.org/doi/10.1145/3609395.3611108)
 
-- **VidPlat**: A Tool for Fast Crowdsourcing of Quality-of-Experience Measurements <br />
-  *Xu Zhang, <b>Hanchen Li</b>, Paul Schmitt, Marshini Chetty, Nick Feamster, Junchen Jiang*<br />
-  Preprint [[paper]](https://arxiv.org/abs/2311.06698)
+**VidPlat**: A Tool for Fast Crowdsourcing of Quality-of-Experience Measurements <br />
+*Xu Zhang, <b>Hanchen Li</b>, Paul Schmitt, Marshini Chetty, Nick Feamster, Junchen Jiang*<br />
+Preprint [[paper]](https://arxiv.org/abs/2311.06698)
 
-- Properties and Applications of Graph Laplacians <br />
-  *<b>Hanchen Li</b>* <br />
-  UChicago Math REU 2022 [[paper]](http://math.uchicago.edu/~may/REU2022/REUPapers/Li,Hanchen.pdf) <br />
+Properties and Applications of Graph Laplacians <br />
+*<b>Hanchen Li</b>* <br />
+UChicago Math REU 2022 [[paper]](http://math.uchicago.edu/~may/REU2022/REUPapers/Li,Hanchen.pdf) <br />
 
 </details>
 
