@@ -37,38 +37,53 @@ _* indicates equivalent contribution_
 <details>
 <summary> <b>Expand</b> </summary>
 
-CacheBlend: Fast Large Languge Model Serving for RAG with Cached Knowledge Fusion <br />
-*Jiayi Yao, <b>Hanchen Li</b>, Yuhan Liu, Siddhant Ray, Yihua Cheng, Qizheng Zhang, Kuntai Du, Shan Lu, Junchen Jiang* <br />
-Preprint [[paper]](https://arxiv.org/abs/2405.16444)
+<div class="content">
+            <p>CacheBlend: Fast Large Language Model Serving for RAG with Cached Knowledge Fusion<br />
+            <i>Jiayi Yao, <b>Hanchen Li</b>, Yuhan Liu, Siddhant Ray, Yihua Cheng, Qizheng Zhang, Kuntai Du, Shan Lu, Junchen Jiang</i><br />
+            Preprint <a href="https://arxiv.org/abs/2405.16444">paper</a><br /></p>
+</div>
 
-**CacheGen**: Fast Context Loading for Language Model Applications <br />
-*Yuhan Liu, <b>Hanchen Li</b>, Kuntai Du, Jiayi Yao, Yihua Cheng, Yuyang Huang, Shan Lu, Michael Maire, Henry Hoffmann, Ari Holtzman, Ganesh Ananthanarayanan, Junchen Jiang.*<br />
-**SIGCOMM 2024**  [[paper]](https://arxiv.org/abs/2310.07240)
+<div class="content">
+            <p><b>CacheGen</b>: Fast Context Loading for Language Model Applications<br />
+            <i>Yuhan Liu, <b>Hanchen Li</b>, Kuntai Du, Jiayi Yao, Yihua Cheng, Yuyang Huang, Shan Lu, Michael Maire, Henry Hoffmann, Ari Holtzman, Ganesh Ananthanarayanan, Junchen Jiang</i><br />
+            <b>SIGCOMM 2024</b> <a href="https://arxiv.org/abs/2310.07240">paper</a><br /></p>
+</div>
 
-**Eloquent**:  More Robust Transmission Scheme for LLM Token Streaming <br />
-*<b>Hanchen Li</b>, Yuhan Liu, Yihua Cheng, Siddhant Ray, Kuntai Du, Junchen Jiang* <br />
-SIGCOMM 2024 Workshop on Networks for AI Computing (**NAIC**) [[paper]](https://arxiv.org/abs/2401.12961)
+<div class="content">
+            <p><b>Eloquent</b>: More Robust Transmission Scheme for LLM Token Streaming<br />
+            <i><b>Hanchen Li</b>, Yuhan Liu, Yihua Cheng, Siddhant Ray, Kuntai Du, Junchen Jiang</i><br />
+            SIGCOMM 2024 Workshop on Networks for AI Computing (<b>NAIC</b>) <a href="https://arxiv.org/abs/2401.12961">paper</a><br /></p>
+</div>
 
-**GRACE**: Loss-Resilient Real-Time Video Communication Using Data-Scalable Autoencoder <br />
-*Yihua Cheng, Ziyi Zhang, <b>Hanchen Li</b>, Anton Arapin, Yue Zhang, Qizheng Zhang, Yuhan Liu, Xu Zhang, Francis Y. Yan, Amrita Mazumdar, Nick Feamster, Junchen Jiang* <br />
-**NSDI 2024** [[paper]](https://www.usenix.org/conference/nsdi24/presentation/cheng)
+<div class="content">
+            <p><b>GRACE</b>: Loss-Resilient Real-Time Video Communication Using Data-Scalable Autoencoder<br />
+            <i>Yihua Cheng, Ziyi Zhang, <b>Hanchen Li</b>, Anton Arapin, Yue Zhang, Qizheng Zhang, Yuhan Liu, Xu Zhang, Francis Y. Yan, Amrita Mazumdar, Nick Feamster, Junchen Jiang</i><br />
+            <b>NSDI 2024</b> <a href="https://www.usenix.org/conference/nsdi24/presentation/cheng">paper</a><br /></p>
+</div>
 
-Towards More Economical Context-Augmented LLM Generation by Reusing Stored KV Cache <br />
-*<b>Hanchen Li</b>, Yuhan Liu, Yihua Cheng, Kuntai Du, and Junchen Jiang* <br />
-NSDI 2024 Poster
+<div class="content">
+            <p>Towards More Economical Context-Augmented LLM Generation by Reusing Stored KV Cache<br />
+            <i><b>Hanchen Li</b>, Yuhan Liu, Yihua Cheng, Kuntai Du, and Junchen Jiang</i><br />
+            NSDI 2024 Poster<br /></p>
+          </div>
 
-Optimizing Real-Time Video Experience with Data Scalable Codec <br />
-*<b>Hanchen Li\*</b>, Yihua Cheng\*, Ziyi Zhang, Qizheng Zhang, Anton Arapin, Nick Feamster, Amrita Mazumdar* <br />
-SIGCOMM 2023 Workshop on Emerging Multimedia Systems (**EMS**) [[paper]](https://dl.acm.org/doi/10.1145/3609395.3611108)
+<div class="content">
+      <p>Optimizing Real-Time Video Experience with Data Scalable Codec<br />
+            <i><b>Hanchen Li*</b>, Yihua Cheng*, Ziyi Zhang, Qizheng Zhang, Anton Arapin, Nick Feamster, Amrita Mazumdar</i><br />
+            SIGCOMM 2023 Workshop on Emerging Multimedia Systems (<b>EMS</b>) <a href="https://dl.acm.org/doi/10.1145/3609395.3611108">paper</a><br /></p>
+            </div>
 
-**VidPlat**: A Tool for Fast Crowdsourcing of Quality-of-Experience Measurements <br />
-*Xu Zhang, <b>Hanchen Li</b>, Paul Schmitt, Marshini Chetty, Nick Feamster, Junchen Jiang*<br />
-Preprint [[paper]](https://arxiv.org/abs/2311.06698)
+<div class="content">
+   <p><b>VidPlat</b>: A Tool for Fast Crowdsourcing of Quality-of-Experience Measurements<br />
+            <i>Xu Zhang, <b>Hanchen Li</b>, Paul Schmitt, Marshini Chetty, Nick Feamster, Junchen Jiang</i><br />
+            Preprint <a href="https://arxiv.org/abs/2311.06698">paper</a><br /></p>
+        </div>
 
-Properties and Applications of Graph Laplacians <br />
-*<b>Hanchen Li</b>* <br />
-UChicago Math REU 2022 [[paper]](http://math.uchicago.edu/~may/REU2022/REUPapers/Li,Hanchen.pdf) <br />
-
+<div class="content">
+            <p>Properties and Applications of Graph Laplacians<br />
+            <b>Hanchen Li</b><br />
+               UChicago Math REU 2022 <a href="http://math.uchicago.edu/~may/REU2022/REUPapers/Li,Hanchen.pdf">paper</a></p>
+        </div>
 </details>
 
 ## Honors and Awards
