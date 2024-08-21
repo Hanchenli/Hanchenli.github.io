@@ -17,13 +17,17 @@ I am looking for PhD position and research engineer intern in the 2024 Fall. Fee
 
 ## Selected Publications
 _* indicates equivalent contribution_
+- **CacheBlend**: Fast Large Language Model Serving for RAG with Cached Knowledge Fusion<br />
+  *Jiayi Yao, **Hanchen Li**, Yuhan Liu, Siddhant Ray, Yihua Cheng, Qizheng Zhang, Kuntai Du, Shan Lu, Junchen Jiang* <br />
+  **EuroSys 2025** (To Appear)  [[paper]](https://arxiv.org/abs/2405.16444)
+ 
 - **CacheGen**: Fast Context Loading for Language Model Applications <br />
-  *Yuhan Liu, **Hanchen Li**, Kuntai Du, Jiayi Yao, Yihua Cheng, Yuyang Huang, Shan Lu, Michael Maire, Henry Hoffmann, Ari Holtzman, Ganesh Ananthanarayanan, Junchen Jiang.*<br />
-  **SIGCOMM 2024**  [[paper]](https://arxiv.org/abs/2310.07240)
+  *Yuhan Liu, **Hanchen Li**, Kuntai Du, Jiayi Yao, Yihua Cheng, Yuyang Huang, Shan Lu, Michael Maire, Henry Hoffmann, Ari Holtzman, Ganesh Ananthanarayanan, Junchen Jiang*<br />
+  **SIGCOMM 2024**  [[paper]](https://dl.acm.org/doi/10.1145/3651890.3672274)
 
 - **Eloquent**:  More Robust Transmission Scheme for LLM Token Streaming <br />
   ***Hanchen Li***, Yuhan Liu, Yihua Cheng, Siddhant Ray, Kuntai Du, Junchen Jiang <br />
-  SIGCOMM 2024 Workshop on Networks for AI Computing (**NAIC**) [[paper]](https://arxiv.org/abs/2401.12961)
+  SIGCOMM 2024 Workshop on Networks for AI Computing (**NAIC**) [[paper]](https://dl.acm.org/doi/10.1145/3672198.3673797)
   
 - **GRACE**: Loss-Resilient Real-Time Video Communication Using Data-Scalable Autoencoder <br />
   *Yihua Cheng, Ziyi Zhang, **Hanchen Li**, Anton Arapin, Yue Zhang, Qizheng Zhang, Yuhan Liu, Xu Zhang, Francis Y. Yan, Amrita Mazumdar, Nick Feamster, Junchen Jiang* <br />
@@ -40,7 +44,7 @@ _* indicates equivalent contribution_
 <div class="content">
             <p>CacheBlend: Fast Large Language Model Serving for RAG with Cached Knowledge Fusion<br />
             <i>Jiayi Yao, <b>Hanchen Li</b>, Yuhan Liu, Siddhant Ray, Yihua Cheng, Qizheng Zhang, Kuntai Du, Shan Lu, Junchen Jiang</i><br />
-            Preprint <a href="https://arxiv.org/abs/2405.16444">paper</a><br /></p>
+            <b>Eurosys 2025</b> <a href="https://arxiv.org/abs/2405.16444">paper</a><br /></p>
 </div>
 
 <div class="content">
