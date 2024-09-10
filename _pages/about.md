@@ -19,23 +19,23 @@ I am looking for PhD position and research engineer intern in the 2024 Fall. Fee
 _* indicates equivalent contribution_
 - **CacheBlend**: Fast Large Language Model Serving for RAG with Cached Knowledge Fusion<br />
   *Jiayi Yao, **Hanchen Li**, Yuhan Liu, Siddhant Ray, Yihua Cheng, Qizheng Zhang, Kuntai Du, Shan Lu, Junchen Jiang* <br />
-  **EuroSys 2025** (To Appear)  [[paper]](https://arxiv.org/abs/2405.16444)
+  **EuroSys 2025** (To Appear)  [[Paper]](https://arxiv.org/abs/2405.16444)
  
 - **CacheGen**: Fast Context Loading for Language Model Applications <br />
   *Yuhan Liu, **Hanchen Li**, Kuntai Du, Jiayi Yao, Yihua Cheng, Yuyang Huang, Shan Lu, Michael Maire, Henry Hoffmann, Ari Holtzman, Ganesh Ananthanarayanan, Junchen Jiang*<br />
-  **SIGCOMM 2024**  [[paper]](https://dl.acm.org/doi/10.1145/3651890.3672274) [[Talk]](https://www.youtube.com/watch?v=H4_OUWvdiNo)
+  **SIGCOMM 2024**  [[Paper]](https://dl.acm.org/doi/10.1145/3651890.3672274) [[Talk]](https://www.youtube.com/watch?v=H4_OUWvdiNo) [[Slides]](https://docs.google.com/presentation/d/1y2ZvU6q5YDGAjRMVW-NhbpysNEiz-vqE/edit?usp=sharing&ouid=117279427324998277030&rtpof=true&sd=true)
 
 - **Eloquent**:  More Robust Transmission Scheme for LLM Token Streaming <br />
   ***Hanchen Li***, Yuhan Liu, Yihua Cheng, Siddhant Ray, Kuntai Du, Junchen Jiang <br />
-  SIGCOMM 2024 Workshop on Networks for AI Computing (**NAIC**) [[paper]](https://dl.acm.org/doi/10.1145/3672198.3673797)
+  SIGCOMM 2024 Workshop on Networks for AI Computing (**NAIC**) [[Paper]](https://dl.acm.org/doi/10.1145/3672198.3673797)
   
 - **GRACE**: Loss-Resilient Real-Time Video Communication Using Data-Scalable Autoencoder <br />
   *Yihua Cheng, Ziyi Zhang, **Hanchen Li**, Anton Arapin, Yue Zhang, Qizheng Zhang, Yuhan Liu, Xu Zhang, Francis Y. Yan, Amrita Mazumdar, Nick Feamster, Junchen Jiang* <br />
-  **NSDI 2024** [[paper]](https://www.usenix.org/conference/nsdi24/presentation/cheng)
+  **NSDI 2024** [[Paper]](https://www.usenix.org/conference/nsdi24/presentation/cheng)
 
 - Optimizing Real-Time Video Experience with Data Scalable Codec <br />
   **Hanchen Li\***, Yihua Cheng\*, Ziyi Zhang, Qizheng Zhang, Anton Arapin, Nick Feamster, Amrita Mazumdar*<br />
-  SIGCOMM 2023 Workshop on Emerging Multimedia Systems (**EMS**) [[paper]](https://dl.acm.org/doi/10.1145/3609395.3611108)
+  SIGCOMM 2023 Workshop on Emerging Multimedia Systems (**EMS**) [[Paper]](https://dl.acm.org/doi/10.1145/3609395.3611108)
   
 ## All Publications (with preprints & posters)
 <details>
