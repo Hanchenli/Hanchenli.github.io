@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a rising fourth year undergraduate at University of Chicago studying Mathematics (Honors), Computer Science (Honors) and Statistics. My research interest lies around providing **system & networking** support for **multimedia** and **machine learning** applications. My previous experiences mainly include video conferencing and LLM serving. <br />
+I am a rising fourth year undergraduate at University of Chicago studying Mathematics (Honors), Computer Science (Honors). My research interest lies around providing **system & networking** support for **multimedia** and **machine learning** applications. My previous experiences mainly include video conferencing and LLM serving. <br />
 
 I have been fortunate to work with Prof. Junchen Jiang at University of Chicago and I am currently interning at EPFL DIAS with Dr. Kyoungmin Kim and Prof. Anastasia Ailamaki.
 
