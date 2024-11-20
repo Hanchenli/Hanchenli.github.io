@@ -12,7 +12,7 @@ I am a rising fourth year undergraduate at University of Chicago studying Mathem
 
 I have been fortunate to work with Prof. Junchen Jiang at University of Chicago and I have interned at EPFL DIAS lab before.
 
-I am looking for PhD position and research engineer intern in the 2024 Fall. Feel free to contact me at lihanc2002@uchicago.edu if you see a fit!
+I am seeking PhD positions 2024 application cycle! Feel free to contact me at lihanc2002@uchicago.edu if you see a fit!
 
 
 ## Selected Publications
