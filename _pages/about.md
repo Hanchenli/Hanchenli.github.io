@@ -12,7 +12,7 @@ Hey all! I just graduated from University of Chicago with BS in Math and CS. My 
 
 I have been fortunate to work with Prof. Junchen Jiang at University of Chicago (and collaborate with many more!) and I was an intern in DIAS lab at EPFL.
 
-I am currently doing outreach for [LMCache](https://github.com/LMCache/LMCache). Let me know if you are interested in learning more about serving open-source models efficiently or contributing to LMCache!
+I am currently doing outreach for [LMCache](https://github.com/LMCache/LMCache) (and trying to finish my first full project T_T). Let me know if you are interested in learning more about serving open-source LLM efficiently or contributing!
 
 I am also applying to PhD programs this fall! Feel free to contact me at lihanc2002@uchicago.edu!
 
@@ -91,12 +91,6 @@ _* indicates equivalent contribution_
                UChicago Math REU 2022 <a href="http://math.uchicago.edu/~may/REU2022/REUPapers/Li,Hanchen.pdf">paper</a></p>
         </div>
 </details>
-
-## Honors and Awards
-* **Gold Medal** (4th Place), *Mid-Central USA International Collegiate Programming Competition(**ICPC**)*, 2022
-  [[Standings]](https://mcpc22.kattis.com/contests/mcpc22/standings)
-* Dean's List, *University of Chicago*, 2021-2022
-* First Prize, Chinese National Olympiad in Informatics in Provinces, 2017 & 2018
 
 ## Life
 * My name in Chinese is 李翰宸 and I grew up in Nanjing, Jiangsu.
