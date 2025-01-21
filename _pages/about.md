@@ -10,9 +10,11 @@ redirect_from:
 
 I am a rising fourth year undergraduate at University of Chicago studying Mathematics (Honors), Computer Science (Honors). My research interest lies around providing **system & networking** support for **multimedia** and **machine learning** applications. My previous experiences mainly include video conferencing and LLM serving. <br />
 
-I have been fortunate to work with Prof. Junchen Jiang at University of Chicago and I have interned at EPFL DIAS lab before.
+I have been fortunate to work with Prof. Junchen Jiang at University of Chicago (and collaborate with many more!) and I was an intern in DIAS lab at EPFL.
 
-I am seeking PhD positions 2024 application cycle! Feel free to contact me at lihanc2002@uchicago.edu if you see a fit!
+I am currently doing outreach for [LMCache](https://github.com/LMCache/LMCache). Let me know if you are interested in learning more about serving open-source models efficiently or contributing to LMCache!
+
+I am also applying to PhD programs this fall! Feel free to contact me at lihanc2002@uchicago.edu!
 
 
 ## Selected Publications
