@@ -36,7 +36,7 @@ _* indicates equivalent contribution_
   **NSDI 2024** [[Paper]](https://www.usenix.org/conference/nsdi24/presentation/cheng)
 
 - Optimizing Real-Time Video Experience with Data Scalable Codec <br />
-  **Hanchen Li\***, Yihua Cheng\*, Ziyi Zhang, Qizheng Zhang, Anton Arapin, Nick Feamster, Amrita Mazumdar*<br />
+  **Hanchen Li\***, Yihua Cheng\*, Ziyi Zhang, Qizheng Zhang, Anton Arapin, Nick Feamster, Amrita Mazumdar<br />
   SIGCOMM 2023 Workshop on Emerging Multimedia Systems (**EMS**) [[Paper]](https://dl.acm.org/doi/10.1145/3609395.3611108)
   
 ## All Publications (with preprints & posters)
