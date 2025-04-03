@@ -18,7 +18,7 @@ My previous research included video conferencing, and I was one of the very firs
 _* indicates equivalent contribution_
 - **CacheBlend**: Fast Large Language Model Serving for RAG with Cached Knowledge Fusion<br />
   *Jiayi Yao, **Hanchen Li**, Yuhan Liu, Siddhant Ray, Yihua Cheng, Qizheng Zhang, Kuntai Du, Shan Lu, Junchen Jiang* <br />
-  **EuroSys 2025** (Best Paper Award!)  [[Paper]](https://dl.acm.org/doi/10.1145/3689031.3696098)
+  **EuroSys 2025 (Best Paper Award!)**  [[Paper]](https://dl.acm.org/doi/10.1145/3689031.3696098)
  
 - **CacheGen**: Fast Context Loading for Language Model Applications <br />
   *Yuhan Liu, **Hanchen Li**, Kuntai Du, Jiayi Yao, Yihua Cheng, Yuyang Huang, Shan Lu, Michael Maire, Henry Hoffmann, Ari Holtzman, Ganesh Ananthanarayanan, Junchen Jiang*<br />
