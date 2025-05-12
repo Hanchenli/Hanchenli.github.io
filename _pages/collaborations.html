@@ -6,41 +6,54 @@ title: "Collaborations"
 
 {% include base_path %}
 
-# Collaborations
+<div class="markdown-content">
+  <h1>Collaborations</h1>
 
-If you think you have a project that I can be helpful. Feel free to shoot me an email.
+  <p>If you think you have a project that I can be helpful. Feel free to shoot me an email.</p>
 
-## For undergraduate students
+  <h2>For undergraduate students</h2>
 
-I have some ideas on projects in AI and Systems. They are in some different directions and have different maturity.
-Previous collaborations have resulted in paper like [HypoEval](https://arxiv.org/abs/2504.07174). 
-If you are interested, feel free to shoot me an email with your background and thoughts on what you want to do.
+  <p>I have some ideas on projects in AI and Systems. They are in some different directions and have different maturity.
+  Previous collaborations have resulted in paper like <a href="https://arxiv.org/abs/2504.07174">HypoEval</a>. 
+  If you are interested, feel free to shoot me an email with your background and thoughts on what you want to do.</p>
 
+  <p>Some questions that I have thought about:</p>
 
-Some questions that I have thought about:
+  <ul>
+    <li>
+      <p>Non-volatile memory devices are getting very fast (>10GB/s). Can we improve AI/multimdeia applications utilizing these hardware/system innovations? 
+      I think this is really interesting but I do not have a full project in mind. Here is a list of some related works on this <a href="https://docs.google.com/document/d/1D-MAjoe6-YUAyWtjk7-_N-0gC9uCLT_0nc7oHZ-EOM8/edit?usp=sharing">link</a>.</p>
+    </li>
 
-- Non-volatile memory devices are getting very fast (>10GB/s). Can we improve AI/multimdeia applications utilizing these hardware/system innovations? 
-  I think this is really interesting but I do not have a full project in mind. Here is a list of some related works on this [link](https://docs.google.com/document/d/1D-MAjoe6-YUAyWtjk7-_N-0gC9uCLT_0nc7oHZ-EOM8/edit?usp=sharing).
+    <li>
+      <p>Post-training has demonstrated significant gains in LLM performance. How can we:</p>
+      <ol>
+        <li>collect preference data during serving?</li>
+        <li>design new metrics outside preference to optimize other things like retention rate?</li>
+      </ol>
+      <p>The first question is due to cost of collecting annotation. It is ideal if we can make self-improving LLMs. 
+      I have an initial design about such a system.</p>
+      
+      <p>The second question is more about business metrics. 
+      For example, if the only profit source is from ads, there will be a need to optimize ads click rate and preference at the same time. 
+      This is more from my experience talking with LLM applications companies.</p>
+    </li>
 
-- Post-training has demonstrated significant gains in LLM performance. How can we:
-  1. collect preference data during serving?
-  2. design new metrics outside preference to optimize other things like retention rate?
-  The first question is due to cost of collecting annotation. It is ideal if we can make self-improving LLMs. 
-  I have an initial design about such a system.
-  
-  The second question is more about business metrics. 
-  For example, if the only profit source is from ads, there will be a need to optimize ads click rate and preference at the same time. 
-  This is more from my experience talking with LLM applications companies. 
+    <li>
+      <p>In reasoning models, models will need to iterate through many options before getting the right onw. Can we compress the reasoning chain after thinking finished? 
+      Note that this is different from the "overthinking" since LLMs will still need to think about many things before realizing it is the wrong direction.</p>
+    </li>
 
-- In reasoning models, models will need to iterate through many options before getting the right onw. Can we compress the reasoning chain after thinking finished? 
-  Note that this is different from the "overthinking" since LLMs will still need to think about many things before realizing it is the wrong direction.
-  
-- Improvement of AI ability in vertical domains. 
-  I personally care little about "AGI" and am more interested in how they improve our lives practically. 
-  There are too many applications to be improved so feel free to propose your own.
+    <li>
+      <p>Improvement of AI ability in vertical domains. 
+      I personally care little about "AGI" and am more interested in how they improve our lives practically. 
+      There are too many applications to be improved so feel free to propose your own.</p>
+    </li>
+  </ul>
 
-## Direction that I am currently working on myself:
-  LLM inference. 
+  <h2>Direction that I am currently working on myself:</h2>
+  <p>LLM inference.</p>
+</div>
 
 
 
