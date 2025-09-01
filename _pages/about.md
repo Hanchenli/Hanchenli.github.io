@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a 1st year PhD student at UCB Sky Lab. My current research focus is on building **systems** to improve **AI** workloads. Previously, I graduated from University of Chicago with BS in Math and CS (both honors), mainly working with Prof. Junchen Jiang. 
+I am a 1st year PhD student at [UCB Sky Lab](https://sky.cs.berkeley.edu/). My current research focus is on building **systems** to improve **AI** workloads. Previously, I graduated from University of Chicago with BS in Math and CS (both honors), mainly working with Prof. Junchen Jiang. 
 
 I previously worked for product and growth for repositories like [LMCache](https://github.com/LMCache/LMCache) and [vLLM Production Stack](https://github.com/vllm-project/production-stack). Research-wise, I was one of the very first people to optimize KV cache reuse for LLMs. 
 
