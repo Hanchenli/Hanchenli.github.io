@@ -50,7 +50,7 @@ _* indicates equivalent contribution_
 .page-watermark span {
   font: 700 20px/1.2 system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;
   color: #000;
-  opacity: 0.07;
+  opacity: 0.00;
   white-space: nowrap;
   transform: rotate(-18deg);
   user-select: none;
