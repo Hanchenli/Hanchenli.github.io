@@ -8,14 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-I am a 1st year PhD student at [UCB Sky Lab](https://sky.cs.berkeley.edu/). My current research focus is on building **systems** to improve **AI** workloads. Previously, I graduated from University of Chicago with BS in Math and CS (both honors), mainly working with Prof. Junchen Jiang. 
+I am a 1st year PhD student at [UCB Sky Lab](https://sky.cs.berkeley.edu/) advised by Prof. Ion Stoica and Prof. Joseph Gonzalez. My current research focus is on the intersection between **systems** and **AI**. Previously, I graduated from University of Chicago with BS in Math and CS (both honors), mainly working with Prof. Junchen Jiang. 
 
-I previously worked for product and growth for repositories like [LMCache](https://github.com/LMCache/LMCache) and [vLLM Production Stack](https://github.com/vllm-project/production-stack). Research-wise, I was one of the very first people to optimize KV cache reuse for LLMs. 
+I was the first employee of Tensormesh, where I led Product and Growth in its beginning days. Research-wse, I was one of the very first people to optimize KV cache reuse beyond GPU HBM for LLMs. 
 
-I am always open to collaborations and working with undergraduate students. Please checkout the [collaborations page](/collaborations/) if you are interested!
+I am always open to collaborations and working with undergraduate students with good CS backgrounds. Please checkout the [collaborations page](/collaborations/) if you are interested!
 
 ## Selected Publications
 _* indicates equivalent contribution_
+- **Continuum**: Efficient and Robust Multi-Turn LLM Agent Scheduling with KV Cache Time-to-Live<br />
+ ***Hanchen Li**, Qiuyang Mang, Runyuan He, Qizheng Zhang, Huanzhi Mao, Xiaokun Chen, Alvin Cheung, Joseph Gonzalez, Ion Stoica* <br />
+ **Arxiv** [[Paper]](https://arxiv.org/abs/2511.02230)
+
 - **CacheBlend**: Fast Large Language Model Serving for RAG with Cached Knowledge Fusion<br />
   *Jiayi Yao, **Hanchen Li**, Yuhan Liu, Siddhant Ray, Yihua Cheng, Qizheng Zhang, Kuntai Du, Shan Lu, Junchen Jiang* <br />
   **EuroSys 2025 (Best Paper Award!)**  [[Paper]](https://dl.acm.org/doi/10.1145/3689031.3696098)
