@@ -15,7 +15,7 @@ I was the first employee of Tensormesh, where I led Product and Growth in its be
 I am always open to collaborations and working with undergraduate students with good CS backgrounds. Please checkout the [collaborations page](/collaborations/) if you are interested!
 
 ## Selected Publications
-_* indicates equivalent contribution_
+_\* indicates equivalent contribution_
 - **Continuum**: Efficient and Robust Multi-Turn LLM Agent Scheduling with KV Cache Time-to-Live<br />
  ***Hanchen Li**, Qiuyang Mang, Runyuan He, Qizheng Zhang, Huanzhi Mao, Xiaokun Chen, Alvin Cheung, Joseph Gonzalez, Ion Stoica* <br />
  **Arxiv** [[Paper]](https://arxiv.org/abs/2511.02230)
