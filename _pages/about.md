@@ -17,8 +17,8 @@ I am always open to collaborations and working with undergraduate students with 
 ## Selected Publications
 _\* indicates equivalent contribution_
 - **Continuum**: Efficient and Robust Multi-Turn LLM Agent Scheduling with KV Cache Time-to-Live<br />
- ***Hanchen Li**, Qiuyang Mang, Runyuan He, Qizheng Zhang, Huanzhi Mao, Xiaokun Chen, Alvin Cheung, Joseph Gonzalez, Ion Stoica* <br />
- **Arxiv** [[Paper]](https://arxiv.org/abs/2511.02230)
+**Hanchen Li**, Qiuyang Mang, Runyuan He, Qizheng Zhang, Huanzhi Mao, Xiaokun Chen, Alvin Cheung, Joseph Gonzalez, Ion Stoica <br />
+ **Arxiv** [[Paper]](https://arxiv.org/abs/2511.02230) [[Preview Code]](https://github.com/Hanchenli/vllm-continuum)
 
 - **CacheBlend**: Fast Large Language Model Serving for RAG with Cached Knowledge Fusion<br />
   *Jiayi Yao, **Hanchen Li**, Yuhan Liu, Siddhant Ray, Yihua Cheng, Qizheng Zhang, Kuntai Du, Shan Lu, Junchen Jiang* <br />
