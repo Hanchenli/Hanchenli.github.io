@@ -6,17 +6,11 @@ main:
   # - title: "Talks"
   #   url: /talks/    
 
-  - title: "Teaching"
-    url: /teaching/    
-    
-  # - title: "Portfolio"
-  #   url: /portfolio/
-        
   - title: "Collaborations"
     url: /collaborations/
 
-  # - title: "CV"
-  #   url: /cv/
-    
   - title: "Life"
     url: /life/
+
+  - title: "Teaching"
+    url: /teaching/
