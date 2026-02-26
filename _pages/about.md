@@ -10,7 +10,7 @@ redirect_from:
 
 I am a 1st year PhD student at [UCB Sky Lab](https://sky.cs.berkeley.edu/) advised by Prof. Ion Stoica and Prof. Joseph Gonzalez. My current research focus lies broadly in **systems** and **AI**. Previously, I graduated from University of Chicago with BS in Math and CS (both honors), mainly working with Prof. Junchen Jiang. 
 
-I write about technology, business, and society at my cute blog [site](https://hanchenli.github.io/blog/). The best way to follow me is on Twitter or Linkedin!
+I write about technology, business, and society at my blog [site](https://hanchenli.github.io/blog/). The best way to follow me is on Twitter or Linkedin!
 
 In previous life, I was the first employee of Tensormesh (creator of LMCache), where I led Product and Growth in the beginning. I was one of the very first people to optimize KV cache reuse beyond GPU HBM for LLMs (The Cache papers). 
 
