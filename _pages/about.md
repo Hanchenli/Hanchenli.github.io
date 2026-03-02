@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a 1st year PhD student at [UCB Sky Lab](https://sky.cs.berkeley.edu/) advised by Prof. Ion Stoica and Prof. Joseph Gonzalez. My current research focus lies broadly in **systems** and **AI**. Previously, I graduated from University of Chicago with BS in Math and CS (both honors), mainly working with Prof. Junchen Jiang. 
+I am a 1st year PhD student at [UCB Sky Lab](https://sky.cs.berkeley.edu/) advised by Prof. Ion Stoica and Prof. Joseph Gonzalez. My current research focus lies broadly in **agent** **infra** (inference, context engineering automation, benchmark...) Previously, I graduated from University of Chicago with BS in Math and CS (both honors), mainly working with Prof. Junchen Jiang. 
 
 I write about technology, business, and society at my blog [site](https://hanchenli.github.io/blog/). The best way to follow me is on Twitter or Linkedin!
 
