@@ -16,6 +16,11 @@ In previous life, I was the first employee of Tensormesh (creator of LMCache), w
 
 I am open to collaborations and working with undergraduate students with excellence and tenacity. Please checkout the [collaborations page](/collaborations/) if you are interested!
 
+## Current Projects
+**Frontier CS**: Coding benchmark for long-horizon agents with dense and continuous reward functions. [link](https://github.com/FrontierCS/Frontier-CS)
+**ACE**: Automatic Context Engineering for self-improving agents. [link](https://github.com/ace-agent/ace)
+**Continuum**: Faster ReAct style agent inference with KV cache Time-to-live. [link](https://github.com/Hanchenli/vllm-continuum)
+
 ## Selected Publications
 _\* indicates equivalent contribution_
 - **Continuum**: Efficient and Robust Multi-Turn LLM Agent Scheduling with KV Cache Time-to-Live<br />
