@@ -47,4 +47,5 @@ Qizheng Zhang, Changran Hu, Shubhangi Upasani, Boyuan Ma, Fenglu Hong, Vamsidhar
 
 ## Life
 * My name in Chinese is 李翰宸 and I grew up in Nanjing, Jiangsu.
+* I consider myself as an absurdist.
 * I play soccer, basketball, tennis, and lift. I enjoyed 掼蛋(Guan Dan, a popular card game in ~~Jiangsu~~China) with friends but now I got back to reading.
