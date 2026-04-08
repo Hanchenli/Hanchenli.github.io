@@ -23,6 +23,10 @@ I am open to collaborations and working with undergraduate students with excelle
 
 ## Selected Publications
 _\* indicates equivalent contribution_
+
+- **Combee**: Scaling Prompt Learning for Self-Improving Language Model Agents<br/>
+**Hanchen Li\***, Runyuan He\*, Qizheng Zhang, Changxiu Ji, Qiuyang Mang, Xiaokun Chen, Lakshya A Agrawal, Wei-Liang Liao, Eric Yang, Alvin Cheung, James Zou, Kunle Olukotun, Ion Stoica, Joseph E. Gonzalez [[Paper]](https://arxiv.org/abs/2604.04247)
+
 - **Continuum**: Efficient and Robust Multi-Turn LLM Agent Scheduling with KV Cache Time-to-Live<br />
 **Hanchen Li**, Qiuyang Mang, Runyuan He, Qizheng Zhang, Huanzhi Mao, Xiaokun Chen, Alvin Cheung, Joseph Gonzalez, Ion Stoica <br />
  **Arxiv** [[Paper]](https://arxiv.org/abs/2511.02230) [[Preview Code]](https://github.com/Hanchenli/vllm-continuum)
