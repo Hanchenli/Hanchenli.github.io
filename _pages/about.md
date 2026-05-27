@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a 1st year PhD student at [UCB Sky Lab](https://sky.cs.berkeley.edu/) advised by Prof. Ion Stoica and Prof. Joseph Gonzalez. My current research focus lies broadly in **agent** **infra** including benchmark & data (e.g. Frontier-CS), inference (e.g. Continuum), context engineering automation (e.g. ACE)... Previously, I graduated from University of Chicago with BS in Math and CS (both honors), mainly working with Prof. Junchen Jiang. 
+I am a rising 2nd year PhD student at [UCB Sky Lab](https://sky.cs.berkeley.edu/) advised by Prof. Ion Stoica and Prof. Joseph Gonzalez. My current research focus lies broadly in **agent** **infra** including benchmark & data (e.g. Frontier-CS), inference (e.g. Continuum), context engineering automation (e.g. ACE, Combee)... Previously, I graduated from University of Chicago with BS in Math and CS (both honors), mainly working with Prof. Junchen Jiang. 
 
 I write about technology, business, and society at my blog [site](https://hanchenli.github.io/blog/). The best way to follow me is on Twitter or Linkedin!
 
@@ -16,10 +16,15 @@ In previous life, I was the first employee of Tensormesh (creator of LMCache), w
 
 I am open to collaborations and working with undergraduate students with excellence and tenacity. Please checkout the [collaborations page](/collaborations/) if you are interested!
 
-## Current Projects
-**Frontier CS**: Coding benchmark for long-horizon agents with dense and continuous reward functions. [link](https://github.com/FrontierCS/Frontier-CS) <br />
-**ACE**: Automatic Context Engineering for self-improving agents. [link](https://github.com/ace-agent/ace) <br />
-**Continuum**: Faster ReAct style agent inference with KV cache Time-to-live. [link](https://github.com/Hanchenli/vllm-continuum) <br />
+## News
+\[May 2026\] Starting summer intern at Anuttacon (Mihoyo's AI branch) working on coding data! <br />
+\[Aug 2025\] Starting PhD at UCB! <br />
+\[Apr 2025\] Starting my first industry job as the first hire at Tensormesh! <br />
+
+## Areas of Work
+**Data & Eval**: [Frontier CS](https://github.com/FrontierCS/Frontier-CS): Coding benchmark for long-horizon agents with dense and continuous reward functions <br />
+**Agent Improvement**: [ACE](https://github.com/ace-agent/ace), [Combee](https://arxiv.org/pdf/2604.04247): Automatic context engineering <br />
+**Agent Efficiency**: [Continuum](https://github.com/Hanchenli/vllm-continuum), [CacheGen](https://dl.acm.org/doi/10.1145/3651890.3672274), [CacheBlend](https://arxiv.org/abs/2405.16444): Efficient Agent Inference, RL stack beyond vLLM and SGLang<br />
 
 ## Selected Publications
 _\* indicates equivalent contribution_
