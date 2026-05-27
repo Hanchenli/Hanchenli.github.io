@@ -12,7 +12,7 @@ I am a rising 2nd year PhD student at [UCB Sky Lab](https://sky.cs.berkeley.edu/
 
 I write about technology, business, and society at my blog [site](https://hanchenli.github.io/blog/). The best way to follow me is on Twitter or Linkedin!
 
-In previous life, I was the first employee of Tensormesh (creator of LMCache), where I led Product and Growth in the beginning. I was one of the very first people to optimize KV cache reuse beyond GPU HBM for LLMs (The Cache papers). 
+In previous life, I was the first employee of Tensormesh (creator of LMCache), where I led Product and Growth in the beginning. Research-wise, I was one of the very first people to optimize KV cache reuse beyond GPU HBM for LLMs (The CacheXXX papers). 
 
 I am open to collaborations and working with undergraduate students with excellence and tenacity. Please checkout the [collaborations page](/collaborations/) if you are interested!
 
