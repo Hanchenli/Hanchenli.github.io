@@ -12,7 +12,7 @@ I am a rising 2nd year PhD student at [UCB Sky Lab](https://sky.cs.berkeley.edu/
 
 I write about technology, business, and society at my blog [site](https://hanchenli.github.io/blog/). The best way to follow me is on Twitter or Linkedin!
 
-In previous life, I was the first employee of Tensormesh (creator of LMCache), where I led Product and Growth in the beginning. Research-wise, I was one of the very first people to optimize KV cache reuse beyond GPU HBM for LLMs (The CacheXXX papers). 
+In previous life, I was the first employee of Tensormesh (creator of LMCache), where I led Product and Growth in the beginning. Research-wise, I was one of the very first people to optimize KV cache reuse beyond GPU HBM for LLMs (The CacheXXX papers). My research works have received Best Paper Award at EuroSys and have been turned into commercial product at Tensormesh. 
 
 I am open to collaborations and working with undergraduate students with excellence and tenacity. Please checkout the [collaborations page](/collaborations/) if you are interested!
 
@@ -26,11 +26,12 @@ I am open to collaborations and working with undergraduate students with excelle
 **Agent Improvement**: [ACE](https://github.com/ace-agent/ace), [Combee](https://arxiv.org/pdf/2604.04247): Automatic context engineering <br />
 **Agent Efficiency**: [Continuum](https://github.com/Hanchenli/vllm-continuum), [CacheGen](https://dl.acm.org/doi/10.1145/3651890.3672274), [CacheBlend](https://arxiv.org/abs/2405.16444): Efficient Agent Inference, RL stack beyond vLLM and SGLang<br />
 
-## Selected Publications
+## Selected Publications 
 _\* indicates equivalent contribution_
 
 - **Combee**: Scaling Prompt Learning for Self-Improving Language Model Agents<br/>
-**Hanchen Li\***, Runyuan He\*, Qizheng Zhang, Changxiu Ji, Qiuyang Mang, Xiaokun Chen, Lakshya A Agrawal, Wei-Liang Liao, Eric Yang, Alvin Cheung, James Zou, Kunle Olukotun, Ion Stoica, Joseph E. Gonzalez [[Paper]](https://arxiv.org/abs/2604.04247)
+**Hanchen Li\***, Runyuan He\*, Qizheng Zhang, Changxiu Ji, Qiuyang Mang, Xiaokun Chen, Lakshya A Agrawal, Wei-Liang Liao, Eric Yang, Alvin Cheung, James Zou, Kunle Olukotun, Ion Stoica, Joseph E. Gonzalez <br/>
+**COLM 2026** [[Paper]](https://arxiv.org/abs/2604.04247)
 
 - **Continuum**: Efficient and Robust Multi-Turn LLM Agent Scheduling with KV Cache Time-to-Live<br />
 **Hanchen Li**, Qiuyang Mang, Runyuan He, Qizheng Zhang, Huanzhi Mao, Xiaokun Chen, Alvin Cheung, Joseph Gonzalez, Ion Stoica <br />
