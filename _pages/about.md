@@ -23,8 +23,8 @@ I am open to collaborations and working with undergraduate students with excelle
 
 ## Areas of Work
 **Data & Eval**: [Frontier CS](https://github.com/FrontierCS/Frontier-CS): Coding benchmark for long-horizon agents with dense and continuous reward functions <br />
-**Agent Improvement**: [ACE](https://github.com/ace-agent/ace), [Combee](https://arxiv.org/pdf/2604.04247): Automatic context engineering <br />
-**Agent Efficiency**: [Continuum](https://github.com/Hanchenli/vllm-continuum), [CacheGen](https://dl.acm.org/doi/10.1145/3651890.3672274), [CacheBlend](https://arxiv.org/abs/2405.16444): Efficient Agent Inference, RL stack beyond vLLM and SGLang<br />
+**Self Improvement**: [ACE](https://github.com/ace-agent/ace), [Combee](https://arxiv.org/pdf/2604.04247): Automatic context engineering <br />
+**Agent Efficiency**: [Continuum](https://github.com/Hanchenli/vllm-continuum), [CacheGen](https://dl.acm.org/doi/10.1145/3651890.3672274), [CacheBlend](https://arxiv.org/abs/2405.16444): Efficient Agent Inference<br />
 
 ## Selected Publications 
 _\* indicates equivalent contribution_
